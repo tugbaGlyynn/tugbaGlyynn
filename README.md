@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋, I am Tuğba :nerd_face:</h1>
 <h3 align="center">Frontend Developer</h3>
 <br/>
-<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4NHN0M2t3MzQ5c3Fkc3RmdmhnaG5mdDRqcWxocXRoaGxrbzRlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"></img> 
+<img align="right" width="400"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk4NHN0M2t3MzQ5c3Fkc3RmdmhnaG5mdDRqcWxocXRoaGxrbzRlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"></img> 
 
 - 🌱 I’m currently learning ****new technologies and tools****
 
